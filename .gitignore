@@ -99,3 +99,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# ipython notebook check points
+*.ipynb_checkpoints
